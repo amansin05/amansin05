@@ -2,9 +2,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amansin05&label=Profile%20views&color=0e75b6&style=flat" alt="Aman Singhal" /> </p>
 
+- 🔭  I am exploring in field of Machine Learning and Artificial Intelligence and have done various projects in different sub-domains of ML & AI.
+  
+- 🌱  I have keen interest in Data Science, Data Analytics, Finance and Economics.
+  
+- 👯  I wish to expand my skillset and explore new opportunities.
+  
 - 🔭 I’m currently working on [ChatBOT](https://github.com/amansin05/ChatBOT)
-
-- 🌱 I’m currently learning **Machine Learning**
 
 - 🤝 I’m looking for help with [ChatBOT](https://github.com/amansin05/ChatBOT)
 
@@ -13,25 +17,6 @@
 ## Github Stats :
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=amansin05&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=solarized-light)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amansin05&layout=compact&theme=solarized-light&custom_title=Statistics)  
-
-## Languages and tools :
-
-![python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![scikit_learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![opencv](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![tenserflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-![flask](https://img.shields.io/badge/Flask-000000.svg?&style=for-the-badge&logo=flask&logoColor=white)
-![html](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white) 
-![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
-![git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) 
-![Pycharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![vs code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
 
 <h3 align="left"> Skills:</h3>
 
