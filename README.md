@@ -10,6 +10,17 @@
 
 - 📫 How to reach me **amansinghal05082003@gmail.com**
 
+## Github Stats :
+<!-- <a href="#"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=amansin05&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansin05&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a> -->
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anjiii-18&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=solarized-light)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjiii-18&layout=compact&theme=solarized-light&custom_title=Statistics)  
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anjiii-18&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=solarized-light)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjiii-18&layout=compact&theme=solarized-light&custom_title=Statistics) 
+
 <h3 align="left"> Skills:</h3>
 
 <h4 align="left"> Programming Languages:</h4>
