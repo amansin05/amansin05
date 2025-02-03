@@ -15,8 +15,8 @@
 - 📫 How to reach me **amansinghal05082003@gmail.com**
 
 ## Github Stats :
-#![GitHub stats](https://github-readme-stats.vercel.app/api?#username=amansin05&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=sola#rized-light)
-#![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amansin05&layout=compact&theme=solarized-#light&custom_title=Statistics)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=amansin05&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=sola#rized-light)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amansin05&layout=compact&theme=solarized-#light&custom_title=Statistics)  
 
 <h3 align="left"> Skills:</h3>
 
